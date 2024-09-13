@@ -220,3 +220,43 @@ In this project, we set up and manage Active Directory on Azure Virtual Machines
     </ul>
   </li>
 </ol>
+
+### Purpose of the Lab
+
+The purpose of this lab is to provide hands-on experience in setting up and managing Active Directory in a cloud environment using Azure Virtual Machines. This lab demonstrates how to configure a Domain Controller, manage user accounts, and implement security measures such as account lockout policies. It aims to simulate real-world scenarios commonly encountered in IT support roles, enhancing skills in user and permissions management, security configurations, and troubleshooting within an Active Directory domain.
+
+### Key Learnings
+
+- **Active Directory Setup:**  
+  Learn how to install and configure Active Directory Domain Services, promote a server to a Domain Controller, and set up a new forest and domain.
+
+- **User and Permissions Management:**  
+  Gain practical experience in creating and managing user accounts, security groups, and organizational units (OUs) within Active Directory.
+
+- **Account Security Policies:**  
+  Understand how to configure account lockout policies, reset passwords, and manage account security settings to enhance network security.
+
+- **Domain Joining and Client Management:**  
+  Learn the steps to join client machines to a domain, manage them within Active Directory, and apply group policies for consistent configuration across the network.
+
+- **Troubleshooting AD Issues:**  
+  Develop skills in diagnosing and resolving common Active Directory issues, such as account lockouts, DNS resolution problems, and domain connectivity failures.
+
+### Concepts Taught by This Lab
+
+- **Directory Services Management:**  
+  Understand the core functions of Active Directory as a centralized management system for user authentication, permissions, and security.
+
+- **Organizational Units and Group Policies:**  
+  Learn how OUs and GPOs are used to structure and manage users and computers within a domain, applying policies to enforce security and configuration standards.
+
+- **Security Best Practices in AD:**  
+  Explore best practices for securing Active Directory environments, including the management of administrative accounts, implementation of security groups, and configuration of access controls.
+
+- **Remote Access Configuration:**  
+  Set up and configure remote desktop access for users, demonstrating the ability to manage access permissions and troubleshoot connectivity issues.
+
+- **Automation with PowerShell:**  
+  Use PowerShell scripts to automate common administrative tasks in Active Directory, such as user creation and bulk management operations.
+
+
