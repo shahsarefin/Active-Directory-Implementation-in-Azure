@@ -220,7 +220,7 @@ In this project, we set up and manage Active Directory on Azure Virtual Machines
     </ul>
   </li>
 </ol>
--- 
+
 ### Purpose of the Lab
 
 The purpose of this lab is to provide hands-on experience in setting up and managing Active Directory in a cloud environment using Azure Virtual Machines. This lab demonstrates how to configure a Domain Controller, manage user accounts, and implement security measures such as account lockout policies. It aims to simulate real-world scenarios commonly encountered in IT support roles, enhancing skills in user and permissions management, security configurations, and troubleshooting within an Active Directory domain.
